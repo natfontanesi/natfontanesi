@@ -2,14 +2,15 @@
 
 
  
-<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natfontanesi&hide=html&layout=compact&theme=buefy" />  
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natfontanesi&hide=html&layout=compact&theme=buefy" />    
 
 <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=natfontanesi&theme=buefy"/>  
+ 
 
----
-# Seja Bem-vinde!----
----
-## Sou estudante de Análise e Desenvolvimento de Sistemasno IFSP e também faço o curso incrível da Resilia em ciência de dados.
-## Gosto de ler, jogar e ficar com meus gatos Príncipe e Viola.
+***
+# Seja Bem-vinde!
+***
+#### Sou estudante de Análise e Desenvolvimento de Sistemasno IFSP e também faço o curso incrível da Resilia em ciência de dados.
+#### Gosto de ler, jogar e ficar com meus gatos Príncipe e Viola.
 
-### Uma curiosidade: antes de ingressar na tecnologia eu fiz Ciências Sociais! 
+##### Uma curiosidade: antes de ingressar na tecnologia eu fiz Ciências Sociais! 
