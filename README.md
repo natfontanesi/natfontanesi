@@ -18,18 +18,26 @@
 ##### **Uma curiosidade**: antes de ingressar na tecnologia eu fiz _Ciências Sociais_! :smile:
 
 ***
-### Linguagens que sei:
+## Linguagens que sei:
 - C
 + C#
 * Java
 * Python
 
-### Código
-   `vacina = int(input("Você tomou vacina? 1.Sim 2.Não"))
-   virou_jacare = int(input("Você virou jacaré? 1.Sim 2.Não"))
+## Nível nas Linguagens:
+|Linguagem | Proficiência | Status |
+|----------|------------|-----------|
+|C | 85% | Em Andamento |
+|C# | 60% | Parado |
+|Java |70% | Em Andamento |
+|Python | 50% | Em Andamento |
 
+
+### Código
+   vacina = int(input("Você tomou vacina? 1.Sim 2.Não"))
+   virou_jacare = int(input("Você virou jacaré? 1.Sim 2.Não"))
    if(virou_jacare==1)and(vacina == 1):
-       print("A vacina transforma em jacaré mesmo!")
-   else:
-       ("Não há indicios que vire jacaré quem toma a vacina :(")`
+      print("A vacina transforma em jacaré mesmo!")
+         else:
+            ("Não há indicios que vire jacaré quem toma a vacina :(")
 
