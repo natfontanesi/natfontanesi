@@ -13,4 +13,11 @@
 #### Sou estudante de Análise e Desenvolvimento de Sistemasno IFSP e também faço o curso incrível da Resilia em ciência de dados.
 #### Gosto de ler, jogar e ficar com meus gatos Príncipe e Viola.
 
-##### Uma curiosidade: antes de ingressar na tecnologia eu fiz Ciências Sociais! 
+##### **Uma curiosidade**: antes de ingressar na tecnologia eu fiz _Ciências Sociais_! 
+
+***
+### Linguagens que sei:
+- C
++ C#
+* Java
+* Python
