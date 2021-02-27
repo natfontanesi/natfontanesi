@@ -34,9 +34,12 @@
 
 
 ### Código
-   vacina = int(input("Você tomou vacina? 1.Sim 2.Não")) 
-   virou_jacare = int(input("Você virou jacaré? 1.Sim 2.Não")) 
-   if(virou_jacare==1)and(vacina == 1): 
-   print("A vacina transforma em jacaré mesmo!") 
-   else: ("Não há indicios que vire jacaré quem toma a vacina :(")
+    vacina = int(input("Você tomou vacina? 1.Sim 2.Não"))
+    virou_jacare = int(input("Você virou jacaré? 1.Sim 2.Não"))
+    
+    if(virou_jacare==1)and(vacina == 1): 
+      print("A vacina transforma em jacaré mesmo!") 
+    else: 
+      ("Não há indicios que vire jacaré quem toma a vacina :(")
+   
 
