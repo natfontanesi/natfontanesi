@@ -24,23 +24,12 @@
 * Java
 * Python
 
-### Código  
-   `def calcula_media(soma,tamanho):
-    soma_das_notas=sum(soma)
-    soma_das_notas=soma_das_notas/tamanho
-    return soma_das_notas
+### Código
+   `vacina = int(input("Você tomou vacina? 1.Sim 2.Não"))
+   virou_jacare = int(input("Você virou jacaré? 1.Sim 2.Não"))
 
-    media=int(input("Voce quer saber sua média geral(1) ou média da mesma matéria(2) "))
+   if(virou_jacare==1)and(vacina == 1):
+       print("A vacina transforma em jacaré mesmo!")
+   else:
+       ("Não há indicios que vire jacaré quem toma a vacina :(")`
 
-    if(media == 1):
-       tamanho= int(input("Quantas notas você vai inserir? "))
-       soma=[]
-    for i in range(0,tamanho):
-        soma.append(float(input("Digite sua nota {}: ".format(i))))
-    `
-
-
-
-
-
-![](https://komarev.com/ghpvc/?username=natfontanesi&color=blue&style=flat
