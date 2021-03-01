@@ -7,11 +7,11 @@
 <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=natfontanesi&theme=buefy"/>  
  
 
-***
-
-[![Markdown](https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif)]
+***  
+  
+[![Markdown](https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif)]  
 # Seja Bem-vinde!  
-***
+***  
 #### Sou estudante de Análise e Desenvolvimento de Sistemasno IFSP e também faço o curso incrível da Resilia em ciência de dados.
 #### Gosto de ler, jogar e ficar com meus gatos Príncipe e Viola.
 
