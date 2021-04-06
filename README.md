@@ -1,4 +1,5 @@
-[![Markdown(https://github.com/natfontanesi/natfontanesi/blob/main/natascha.jpg?raw=true)](https://github.com/natfontanesi/natfontanesi/blob/main/natascha.jpg?raw=true)  
+
+[!Markdown(https://github.com/natfontanesi/natfontanesi/blob/main/natascha.jpg?raw=true)](https://github.com/natfontanesi/natfontanesi/blob/main/natascha.jpg?raw=true)  
 
 
  
@@ -9,7 +10,7 @@
 
 ***  
   
-[![Markdown](https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif)]  
+[![Markdown](https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif)  
 # Seja Bem-vinde!  
 ***  
 #### Sou estudante de Análise e Desenvolvimento de Sistemasno IFSP e também faço o curso incrível da Resilia em ciência de dados.
