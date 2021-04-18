@@ -5,7 +5,7 @@
  
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natfontanesi&hide=html&layout=compact&theme=buefy" />    
 
-<td><img width="495px" align="right" src="https://github-readme-stats.vercel.app/api?username=natfontanesi&theme=buefy"/>  
+<td><img width="400px" align="right" src="https://github-readme-stats.vercel.app/api?username=natfontanesi&theme=buefy"/>  
  
 
 ***  
