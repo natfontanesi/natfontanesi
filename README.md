@@ -11,7 +11,7 @@
 ***  
   
 [![Markdown](https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif)  
-# Seja Bem-vinde!  
+# Olá!  
 ***  
 #### Sou estudante de Análise e Desenvolvimento de Sistemasno IFSP e também faço o curso incrível da Resilia em ciência de dados.
 #### Gosto de ler, jogar e ficar com meus gatos Príncipe e Viola.
@@ -24,15 +24,4 @@
 + C#
 * Java
 * Python
-
-## Nível nas Linguagens:
-|Linguagem | Proficiência | Status |
-|----------|------------|-----------|
-|C | 85% | Em Andamento |
-|C# | 60% | Parado |
-|Java |70% | Em Andamento |
-|Python | 50% | Em Andamento |
-
-
-
-
+* SQL
